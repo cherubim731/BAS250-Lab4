@@ -1,1 +1,3 @@
+Git is a service that allows the editing of certain code and documents and allows you to review step by step changes with history logs and detailed changelogs. This service allows for easier verison control of projects.
 
+GitHub is a webservice that allows you to access the Git service from any browser and also allows others to make detailed edits and colaborate on projects all with a clean and organized interface.
